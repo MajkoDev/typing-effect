@@ -1,12 +1,10 @@
 import ReactSimpleTypewriter from "./components/ReactSimpleTypewriter";
+import TypewriterEffect from "./components/TypewriterEffect";
 
 function App() {
-
   return (
     <>
-
-<ReactSimpleTypewriter />
-
+      <TypewriterEffect />
     </>
   );
 }
